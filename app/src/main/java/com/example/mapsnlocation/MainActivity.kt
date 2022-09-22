@@ -91,9 +91,6 @@ class MainActivity : AppCompatActivity() {
 
     }
 
-
-
-
     companion object{
         const val MY_PERMISSIONS_REQUEST_LOCATION = 34
         var TAG = MainActivity::class.java.simpleName
